@@ -22,3 +22,5 @@ I study at Yandex Lyceum💻
 </td></tr></table>  
 
 <br/>  
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=vika-myznikova&theme=dark&hide_border=true&card_width=1100)](https://git.io/streak-stats)
