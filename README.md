@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I study at Yandex Lyceum💻
 --------------------------
 
-* 🌍 I live in Yelets
+* 🌍 I live in Lipetsk
 * ✉️ You can contact me at [myznikova.victoria@yandex.com](mailto:myznikova.victoria@yandex.com)
 * 🧠 I'm learning Python
 <div align="center">  
