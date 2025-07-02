@@ -31,5 +31,7 @@ Completed two courses at Yandex Lyceum. 💻
 [![GitHub Streak](https://streak-stats.demolab.com?user=vika-myznikova&theme=dark&hide_border=true&card_width=1100)](https://git.io/streak-stats)
 
 <div align="center"> 
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vika-myznikova&layout=compact&theme=vision-friendly-dark)]
+
 </div>
