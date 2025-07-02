@@ -8,7 +8,7 @@ I study at Yandex Lyceum💻
 * 🧠 I'm learning Python
 <div align="center">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" alt="Python" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
