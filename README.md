@@ -32,6 +32,6 @@ Completed two courses at Yandex Lyceum. 💻
 
 <div align="center"> 
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vika-myznikova&layout=compact&theme=vision-friendly-dark)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vika-myznikova&layout=compact&theme=vision-friendly-dark)
 
 </div>
